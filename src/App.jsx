@@ -7,7 +7,7 @@ export default function App() {
   return (
     <>
       <MyNavbar />
-      <Outlet/>
+      <Outlet />
     </>
   )
 }
